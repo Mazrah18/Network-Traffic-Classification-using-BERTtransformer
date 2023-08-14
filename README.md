@@ -22,7 +22,7 @@ Network traffic classification plays a crucial role in identifying and categoriz
 To get started with this project, follow these steps:
 
 1. Clone this repository:
-    git clone https://github.com/your-username/Network-Traffic-Classification-using-BERT-Transformer.git
+    git clone https://github.com/Mazrah18/Network-Traffic-Classification-using-BERTtransformer.git
    cd Network-Traffic-Classification-using-BERT-Transformer
 2. Install the required dependencies
 3. Follow the instructions provided in the code to preprocess the dataset, train the model, and evaluate its performance.
